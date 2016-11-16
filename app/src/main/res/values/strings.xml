@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Exercise3</string>
+    <string name="user">نام کاربری</string>
+    <string name="password">کلمه عبور</string>
+    <string name="register">ثبت نام</string>
+    <string name="enter">ورود</string>
+
 </resources>
