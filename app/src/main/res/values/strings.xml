@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="user">نام کاربری</string>
+    <string name="password">کلمه عبور</string>
+    <string name="register">ثبت نام</string>
+    <string name="enter">ورود</string>
+    <string name="Email">ایمیل</string>
+    <string name="RePassword">تکرار کلمه عبور</string>
+    <string name="welcome">به نرم افزار پیش بینی بازار بورس خوش آمدید</string>
+
+</resources>
