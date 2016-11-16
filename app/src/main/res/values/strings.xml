@@ -4,5 +4,7 @@
     <string name="password">کلمه عبور</string>
     <string name="register">ثبت نام</string>
     <string name="enter">ورود</string>
+    <string name="Email">ایمیل</string>
+    <string name="RePassword">تکرار کلمه عبور</string>
 
 </resources>
